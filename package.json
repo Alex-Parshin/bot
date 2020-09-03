@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "![alt tag](https://w7.pngwing.com/pngs/166/1000/png-transparent-robotics-search-engine-optimization-internet-bot-robot-control-robot-electronics-search-engine-optimization-web.png) ## Общая информация Название ПО: Система автономного поиска новостных материалов в средствах               массовой информации",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "cli-color": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^5.2.1",
+    "request": "^2.88.2",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
